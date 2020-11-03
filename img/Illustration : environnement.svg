@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="160px" viewBox="0 0 196 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Illustration : environnement</title>
+    <defs>
+        <linearGradient x1="50%" y1="25.5055147%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#6BAAF4" offset="0%"></stop>
+            <stop stop-color="#4A90E2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,3.5 C-2.31705704e-17,3.31079793 0.0210178131,3.12650484 0.0608460085,2.94932815 C0.372047188,1.2708472 1.84116782,0 3.60654008,0 L3.60654008,0 L127.89346,0 C129.885297,0 131.5,1.61781317 131.5,3.61348684 L131.5,3.61348684 L131.5,80.8865132 C131.5,82.8821868 129.885297,84.5 127.89346,84.5 L127.89346,84.5 L3.60654008,84.5 C1.614703,84.5 0,82.8821868 0,80.8865132 L0,80.8865132 L0,3.5 Z M129.5,11 L1.5,11 L1.5,81.0462329 C1.5,82.073886 2.28757029,82.916229 3.28783144,82.9941218 L3.43939394,83 L127.560606,83 C128.631704,83 129.5,82.1252687 129.5,81.0462329 L129.5,81.0462329 L129.5,11 Z" id="path-2"></path>
+        <filter x="-0.8%" y="-1.2%" width="101.5%" height="104.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.368627451   0 0 0 0 0.584313725  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FIOI-Home" transform="translate(-706.000000, -2202.000000)">
+            <g id="Section---Compétitions" transform="translate(66.000000, 2104.000000)">
+                <g id="Concours-3" transform="translate(616.000000, 98.000000)">
+                    <g id="Illustration-:-environnement" transform="translate(24.000000, 0.000000)">
+                        <ellipse id="Oval" fill="#F5A623" cx="150" cy="45.75" rx="46" ry="45.75"></ellipse>
+                        <circle id="Oval-Copy-18" fill="#9ACC68" cx="45.75" cy="113.75" r="45.75"></circle>
+                        <g id="Group-4-Copy" transform="translate(40.500000, 37.500000)">
+                            <g id="Combined-Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <rect id="Rectangle" fill="#FFFFFF" x="1" y="11" width="129" height="72.5" rx="0.5"></rect>
+                            <circle id="Oval" stroke="#4A90E2" stroke-width="0.5" cx="24.5" cy="48.5" r="13.5"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="126" cy="6" r="2"></circle>
+                            <ellipse id="Oval-Copy" fill="#FFFFFF" cx="120.25" cy="6" rx="1.75" ry="2"></ellipse>
+                            <rect id="Rectangle" fill="#FFFFFF" x="29.5" y="3" width="79" height="5" rx="2.5"></rect>
+                            <circle id="Oval" fill="#F5A623" cx="24.5" cy="35.5" r="3.5"></circle>
+                            <circle id="Oval-Copy-39" fill="#F5A623" cx="24.5" cy="61.5" r="3.5"></circle>
+                            <circle id="Oval" fill="#F5A623" cx="38" cy="48.5" r="3.5"></circle>
+                            <circle id="Oval-Copy-40" fill="#F5A623" cx="34" cy="39.5" r="3.5"></circle>
+                            <circle id="Oval-Copy-41" fill="#F5A623" cx="15" cy="58" r="3.5"></circle>
+                            <circle id="Oval-Copy-42" fill="#F5A623" cx="34" cy="58" r="3.5"></circle>
+                            <circle id="Oval-Copy-43" fill="#F5A623" cx="15" cy="39.5" r="3.5"></circle>
+                            <circle id="Oval-Copy-39" fill="#F5A623" cx="11" cy="49.5" r="3.5"></circle>
+                        </g>
+                        <g id="Group-4" transform="translate(106.500000, 109.500000)">
+                            <path d="M1,17 C0.44771525,17 6.76353751e-17,16.5522847 0,16 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 L6.5,0 L7.63043478,3 L18.3695652,3 L19.5,0 L80,0 C80.5522847,-1.01453063e-16 81,0.44771525 81,1 L81,16 C81,16.5522847 80.5522847,17 80,17 L19.5,17 L18.3695652,20 L7.63043478,20 L6.5,17 L1,17 Z" id="Combined-Shape" fill="#F5A623"></path>
+                            <text id="Scratch" font-family="TitilliumWeb-Bold, Titillium Web" font-size="8" font-weight="bold" letter-spacing="-0.13333334" fill="#FFFFFF">
+                                <tspan x="4" y="12">Scratch</tspan>
+                            </text>
+                        </g>
+                        <text id="for-loop-in-range-(4" font-family="Courier" font-size="5.5" font-weight="normal" letter-spacing="-0.0916666687">
+                            <tspan x="95.5" y="71" fill="#4A90E2">for</tspan>
+                            <tspan x="105.126611" y="71" fill="#4A4A4A"> loop </tspan>
+                            <tspan x="124.379834" y="71" fill="#4A90E2">in</tspan>
+                            <tspan x="130.797575" y="71" fill="#4A4A4A"> range (</tspan>
+                            <tspan x="156.468538" y="71" fill="#4A90E2">4</tspan>
+                            <tspan x="159.677409" y="71" fill="#4A4A4A">):</tspan>
+                            <tspan x="95.5" y="77" fill="#4A4A4A">	forward(</tspan>
+                            <tspan x="149.170964" y="77" fill="#4A90E2">100</tspan>
+                            <tspan x="158.797575" y="77" fill="#4A4A4A">)</tspan>
+                            <tspan x="95.5" y="83" fill="#4A4A4A">	left(</tspan>
+                            <tspan x="139.544352" y="83" fill="#4A90E2">90</tspan>
+                            <tspan x="145.962093" y="83" fill="#4A4A4A">)</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#4A90E2" x="41.5" y="60.5" width="130" height="1"></rect>
+                        <rect id="Rectangle" fill="#4A90E2" x="91.5" y="61" width="1" height="60.5"></rect>
+                        <g id="Group-7" transform="translate(49.000000, 112.000000)" fill="#4A90E2">
+                            <circle id="Oval" cx="6.75" cy="2.75" r="2.75"></circle>
+                            <circle id="Oval-Copy-2" cx="1.25" cy="3.25" r="1.25"></circle>
+                            <circle id="Oval-Copy-3" cx="12.25" cy="3.25" r="1.25"></circle>
+                            <circle id="Oval-Copy-16" cx="15.75" cy="3.25" r="1.25"></circle>
+                        </g>
+                        <rect id="Rectangle" fill="#4A90E2" x="68" y="114.5" width="15.5" height="1.5" rx="0.75"></rect>
+                        <g id="Group-5" transform="translate(89.500000, 89.000000)">
+                            <path d="M41.5,0 C42.0522847,-1.01453063e-16 42.5,0.44771525 42.5,1 L42.5,16 C42.5,16.5522847 42.0522847,17 41.5,17 L5.5,17 C4.94771525,17 4.5,16.5522847 4.5,16 L4.50091433,13.6978665 C4.34082912,13.8104444 4.17297908,13.9071895 4,13.9842953 L2,14.8757999 C0.8954305,15.3681643 0,14.3526597 0,12.6076069 L0,4.39239311 C0,2.64734031 0.8954305,1.6318357 2,2.12420008 L4,3.01570465 C4.17297908,3.09281047 4.34082912,3.18955562 4.50091433,3.30213355 L4.5,1 C4.5,0.44771525 4.94771525,1.01453063e-16 5.5,0 L41.5,0 Z" id="Combined-Shape" fill="#9ACC68"></path>
+                            <text id="Blockly" font-family="TitilliumWeb-Bold, Titillium Web" font-size="8" font-weight="bold" letter-spacing="-0.13333334" fill="#FFFFFF">
+                                <tspan x="8.5" y="11">Blockly</tspan>
+                            </text>
+                        </g>
+                        <path d="" id="Path-5" stroke="#979797" stroke-width="0.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
