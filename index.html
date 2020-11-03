@@ -9,31 +9,297 @@
   <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/swiper.css">
   <title>Site-FIOI</title>
 </head>
 
 <body>
 
   <main class="main-container">
-
     <section class="main-screen">
-      <div class="main-screen__container">
-        <div class="main-screen__image">
-          <img src="./img/Illustration-cover.png" alt="">
-        </div>
-        <div class="main-screen__text">
-          <div class="main-screen__text_title">France-ioi</div>
-          <div class="main-screen__text_subtitle">Le site d'entraînement à la programmation et l'algorithmique</div>
-          <div class="main-screen__text_description">Notre objectif est de faire découvrir la programmation et
-            l'algorithmique
-            au plus grand nombre de personnes possible. Nous créons et diffusons gratuitement des outils et contenus
-            permettant de progresser rapidement dans ces domaines, et organisons des concours pour accompagner cette
-            progression. </div>
+      <div class="container">
+        <div class="main-screen__container">
+          <div class="main-screen__image">
+            <img src="./img/main-screen-image.svg" alt="">
+          </div>
+          <div class="main-screen__text">
+            <!-- logo on mobile -->
+            <div class="main-screen__text_logo">
+              <img src="./img/france-ioi-logo.svg" alt="">
+            </div>
+            <!-- end logo on mobile -->
+            <div class="main-screen__text_title">France-ioi</div>
+            <div class="main-screen__text_subtitle">Le site d'entraînement à la programmation et l'algorithmique</div>
+            <div class="main-screen__text_description">Notre objectif est de faire découvrir la programmation et
+              l'algorithmique
+              au plus grand nombre de personnes possible. Nous créons et diffusons gratuitement des outils et contenus
+              permettant de progresser rapidement dans ces domaines, et organisons des concours pour accompagner cette
+              progression. </div>
+            <div class="main-screen__text_button">
+              <a href="#">
+                <i class="icon-arrow"></i>
+                Découvrir
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
+    <section class="announcements">
+      <div class="container">
+        <div class="announcements-carousel">
+          <div class="swiper-container">
+            <div class="swiper-button-prev"></div>
+
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="announcements-item">
+                  <div class="announcements-item__image">
+                    <img src="./img/announcement-image.svg" alt="">
+                  </div>
+                  <div class="announcements-item__text">
+                    <div class="announcements-item__badge">En ce moment</div>
+                    <div class="announcements-item__title">Nouveaux parcours</div>
+                    <div class="announcements-item__description">Découvrez nos nouveaux parcours sur la photographie
+                      numérique et
+                      la cartographie / géolocaliation, en partenariat avec Amazon Future Engineer. Découvrez également
+                      Quick-Pi, notre environnement pour apprendre à programmer ses objets connectés. </div>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="announcements-item">
+                  <div class="announcements-item__image">
+                    <img src="./img/announcement-image.svg" alt="">
+                  </div>
+                  <div class="announcements-item__text">
+                    <div class="announcements-item__badge">En ce moment</div>
+                    <div class="announcements-item__title">Nouveaux parcours</div>
+                    <div class="announcements-item__description">Découvrez nos nouveaux parcours sur la photographie
+                      numérique et
+                      la cartographie / géolocaliation, en partenariat avec Amazon Future Engineer. Découvrez également
+                      Quick-Pi, notre environnement pour apprendre à programmer ses objets connectés. </div>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="announcements-item">
+                  <div class="announcements-item__image">
+                    <img src="./img/announcement-image.svg" alt="">
+                  </div>
+                  <div class="announcements-item__text">
+                    <div class="announcements-item__badge">En ce moment</div>
+                    <div class="announcements-item__title">Nouveaux parcours</div>
+                    <div class="announcements-item__description">Découvrez nos nouveaux parcours sur la photographie
+                      numérique et
+                      la cartographie / géolocaliation, en partenariat avec Amazon Future Engineer. Découvrez également
+                      Quick-Pi, notre environnement pour apprendre à programmer ses objets connectés. </div>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="announcements-item">
+                  <div class="announcements-item__image">
+                    <img src="./img/announcement-image.svg" alt="">
+                  </div>
+                  <div class="announcements-item__text">
+                    <div class="announcements-item__badge">En ce moment</div>
+                    <div class="announcements-item__title">Nouveaux parcours</div>
+                    <div class="announcements-item__description">Découvrez nos nouveaux parcours sur la photographie
+                      numérique et
+                      la cartographie / géolocaliation, en partenariat avec Amazon Future Engineer. Découvrez également
+                      Quick-Pi, notre environnement pour apprendre à programmer ses objets connectés. </div>
+                  </div>
+                </div>
+              </div>
+            </div>
 
 
+            <div class="swiper-button-next"></div>
+            <div class="swiper-pagination"></div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <section class="progress">
+      <div class="container">
+        <h2 class="progress-heading">
+          Progresser à la maison ou en classe
+        </h2>
+        <div class="progress-content">
+          <div class="progress-image">
+            <img src="./img/progress-image.svg" alt="">
+          </div>
+          <div class="progress-text">
+            <h3 class="progress-title">
+              La programmation et de l'algorithmique pour tous, par la pratique
+            </h3>
+            <ul>
+              <li>Découverte de la pensée informatique</li>
+              <li>Initiation à la programmation dès 6 ans</li>
+              <li>Parcours adaptés au collège, en Blockly ou Scratch</li>
+              <li>Parcours pour la fin de collège et le lycée, en Python</li>
+              <li>Apprentissage des langages Python, C, C++, Java, OCaml</li>
+              <li>Algorithmique de haut niveau pour les passionnés</li>
+            </ul>
+            <h3 class="progress-title">Découverte de thèmes liés à la programmation</h3>
+            <ul>
+              <li>Programmer des objets connectés</li>
+              <li>La photo numérique et le traitement d'image</li>
+              <li>Les données structurées</li>
+              <li>La cartographie numérique et la géolocalisation</li>
+            </ul>
+          </div>
+        </div>
+        <div class="progress-button">
+          <a href="#">
+            <i class="icon-loupe"></i>
+            En savoir plus
+          </a>
+        </div>
+      </div>
+    </section>
+    <section class="columns">
+      <div class="container">
+        <h2 class="columns-heading">
+          Des concours pour découvrir et progresser
+        </h2>
+        <div class="columns-container">
+          <div class="columns-item">
+            <div class="columns-item__image">
+              <img src="./img/column-image.svg" alt="image description">
+            </div>
+            <div class="columns-item__title">Concours Castor</div>
+            <div class="columns-item__subtitle">Informatique</div>
+            <div class="columns-item__description">
+              <p>Le concours Castor a pour but de faire découvrir les sciences du numérique, du CM1 à la terminale. Il
+                est organisé par France-ioi, Inria et ENS Paris Saclay.
+              </p>
+              <p>
+                Plus de 700 000 élèves ont participé à l'édition 2019. La prochaine édition se déroulera du 8 novembre
+                au 5 décembre 2020.
+              </p>
+            </div>
+          </div>
+          <div class="columns-item">
+            <div class="columns-item__image">
+              <img src="./img/column-image2.svg" alt="image description">
+            </div>
+            <div class="columns-item__title">Algoréa</div>
+            <div class="columns-item__subtitle">Programmation</div>
+            <div class="columns-item__description">
+              <p> Concours en 5 tours de janvier à août pour progresser en programmation puis en algorithmique, ouvert
+                aux collégien(ne)s et lycéen(ne)s français(es). Plus de 220 000 élèves ont particié en 2020 !
+              </p>
+              <p>
+                La prochaine édition commence début janvier. Plus d'informations sur algorea.org
+              </p>
+            </div>
+          </div>
+          <div class="columns-item">
+            <div class="columns-item__image">
+              <img src="./img/column-image3.svg" alt="image description">
+            </div>
+            <div class="columns-item__title">Alkindi</div>
+            <div class="columns-item__subtitle">Cryptanalyse</div>
+            <div class="columns-item__description">
+              <p>Le concours Alkindi est un concours de cryptanalyse par équipes réservé aux classes de seconde, et
+                organisé par France-ioi et Animath. Il permet de découvrir ce domaine passionnant à l'intersection de
+                l'informatique et des mathématiques.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="competitions">
+      <div class="container">
+        <h2 class="competitions-heading">Les compétitions pour les passionés</h2>
+        <div class="competitions-container">
+          <div class="competitions-item">
+            <div class="competitions-image">
+              <img src="./img/competitions-image1.svg" alt="">
+            </div>
+            <div class="competitions-title">
+              Olympiades internationales
+            </div>
+            <div class="competitions-description">
+              <p>Chaque année, France-ioi sélectionne les quatre meilleur(e)s collégien(ne)s ou lycéen(ne)s français
+                pour représenter la France aux Olympiades Internationales d'Informatique (IOI). Ce concours prestigieux
+                réunit des jeunes passionné(e)s de plus de 80 pays. </p>
+            </div>
+          </div>
+          <div class="competitions-item">
+            <div class="competitions-image">
+              <img src="./img/competitions-image2.svg" alt="">
+            </div>
+            <div class="competitions-title">
+              Olympiades Européennes Junior
+            </div>
+            <div class="competitions-description">
+              <p>France-ioi sélectionne les quatre meilleur(e)s jeunes de moins de 15 ans pour représenter la France aux
+                Olympiades Européennes d'Informatique Junior (EJOI), prestigieux concours qui réunit des jeunes
+                passionné(e)s de 20 pays d'europe. </p>
+
+            </div>
+          </div>
+          <div class="competitions-item">
+            <div class="competitions-image">
+              <img src="./img/competitions-image3.svg" alt="">
+            </div>
+            <div class="competitions-title">
+              Stages d'entraînement
+            </div>
+            <div class="competitions-description">
+              <p>Nous organisons régulièrement des stages d'entraînement gratuits à Paris pour les jeunes les plus
+                motivé(e)s s'entraînant sur le site. Les stages permettent de rencontrer d'autres passionné(e)s et de
+                progresser très rapidement. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="partners">
+      <div class="container">
+        <div class="partners-heading">Nos partenaires</div>
+        <div class="partners-container">
+          <div class="partners-big">
+            <div class="partners-item">
+              <img src="./img/france-ioi-logo.svg" alt="">
+            </div>
+            <div class="partners-item">
+              <img src="./img/Tezos-logo.svg" alt="">
+            </div>
+          </div>
+          <div class="partners-small">
+            <div class="partners-item">
+              <img src="./img/amazon-logo.svg" alt="">
+            </div>
+            <div class="partners-item">
+              <img src="./img/amazon-logo.svg" alt="">
+            </div>
+            <div class="partners-item">
+              <img src="./img/amazon-logo.svg" alt="">
+            </div>
+            <div class="partners-item">
+              <img src="./img/amazon-logo.svg" alt="">
+            </div>
+            <div class="partners-item">
+              <img src="./img/amazon-logo.svg" alt="">
+            </div>
+            <div class="partners-item">
+              <img src="./img/amazon-logo.svg" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="footer-text">
+        Tous droits réservés France-ioi - <a href="#">Mentions légales</a>
+      </div>
+    </footer>
   </main>
 
 
