@@ -239,6 +239,14 @@ dark green color: #337015;
 
 */
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .main-screen {
   background-color: #4A90E2;
   height: 370px;
