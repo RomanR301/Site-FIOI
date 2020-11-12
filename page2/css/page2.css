@@ -535,6 +535,18 @@ a:hover {
   -webkit-transition: height 0.2s ease-out, opacity 0.2s ease-out;
   -o-transition: height 0.2s ease-out, opacity 0.2s ease-out;
   transition: height 0.2s ease-out, opacity 0.2s ease-out;
+  position: relative;
+}
+
+.panel-body:before {
+  content: '';
+  background: #4a90e2;
+  width: 20px;
+  height: 20px;
+  left: 130px;
+  top: -10px;
+  position: absolute;
+  transform: rotate(45deg);
 }
 
 .panel-body__addition {
@@ -647,6 +659,7 @@ a:hover {
 .accordion-column .panel {
   width: 33%;
   border: none;
+  margin-bottom: 24px;
 }
 
 .accordion-column .panel-header {
@@ -672,6 +685,7 @@ a:hover {
   background: rgb(198, 224, 255);
   opacity: 0;
   transition: all .3s ease-in-out;
+  z-index: -1;
 }
 .accordion-column .panel.active .panel-header:before {
   opacity: 1;
@@ -688,19 +702,26 @@ a:hover {
 }
 
 .accordion-column .panel-body {
-  /* position: absolute; */
-  /* left: 0;
-  left: calc(50% - 500px); */
   z-index: 2;
+}
+
+.accordion-column .panel-body:before {
+  background: #fff;
+  left: 158px;
 }
 
 .accordion-column .panel-2 .panel-body {
   margin-left: -344px;
 }
+.accordion-column .panel-2 .panel-body:before {
+  left: 502px;
+}
 .accordion-column .panel-3 .panel-body {
   margin-left: -687px;
 }
-
+.accordion-column .panel-3 .panel-body:before {
+  left: 845px;
+}
 .accordion-column .panel-toggle__text {
   margin: 0;
 }
@@ -718,4 +739,170 @@ a:hover {
 }
 .accordion-column .panel-body__link {
   background: #2E5E95;
+}
+
+footer {
+  background: #2E5E95;
+  padding: 20px 15px;
+}
+.footer-text {
+  text-align: center;
+  color: #4A90E2;
+  font-weight: 700;
+}
+.footer-text a {
+  color: #4A90E2;
+  font-weight: 700;
+}
+
+@media (max-width: 1100px) {
+  .main-screen__image img {
+    width: 100%;
+  }
+  .main-screen__text {
+    width: 40%;
+  }
+  .banner {
+    width: 90%;
+  }
+  .panel-header {
+    width: 90%;
+  }
+  .panel-toggle__text {
+    margin: 0 40px;
+  }
+  .panel-body {
+    width: 95%;
+    margin: 30px auto auto auto;
+  }
+  .panel-body__link_item {
+    padding: 10px 15px;
+  }
+  .accordion {
+    flex-direction: column;
+    align-items: center;
+  }
+  .accordion-column .panel {
+    width: 100%;
+  }
+  .accordion-column .panel-header {
+    width: 70%;
+    margin-bottom: 0;
+    padding: 0 20px 10px 20px;
+  }
+  .accordion-column .panel-body:before {
+    background: #fff;
+    left: calc(50% - 10px);
+  }
+  .accordion-column .panel-2 .panel-body {
+    margin: 30px auto auto auto;
+  }
+  .accordion-column .panel-2 .panel-body:before {
+    left: calc(50% - 10px);
+  }
+  .accordion-column .panel-3 .panel-body {
+    margin-left: auto;
+  }
+  .accordion-column .panel-3 .panel-body:before {
+    left: calc(50% - 10px);
+  }
+}
+
+@media (max-width: 767px) {
+  .main-screen {
+    flex-direction: column;
+    height: auto;
+  }
+  .main-screen__image {
+    width: 100%;
+    padding: 18px;
+  }
+  .main-screen__text {
+    width: 100%;
+    padding: 15px;
+  }
+  .banner {
+    flex-direction: column;
+    width: 90%;
+    max-width: 100%;
+    padding: 20px;
+  }
+  .banner__text {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  .info-block {
+    padding: 0 15px;
+  }
+  .info-block__content {
+    flex-direction: column;
+  }
+  .info-block__image {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .info-block__text {
+    width: 100%;
+  }
+  .panel-header {
+    width: 100%;
+    flex-direction: column;
+  }
+  .panel-toggle__text {
+    margin: 0 20px 30px 20px;
+  }
+  .panel-toggle__image {
+    margin-bottom: 20px;
+  }
+  .accordion-section__heading {
+    font-size: 18px;
+    padding: 24px;
+  }
+  .panel-body {
+    width: 100%;
+    margin: 20px 0 0 0;
+  }
+  .panel-body:before {
+    left: calc(50% - 10px);
+  }
+  .panel-body__list {
+    flex-direction: column;
+  }
+  .panel-body__item {
+    width: 100%;
+  }
+  .panel-body__item_image {
+    height: 300px;
+  }
+  .panel-body__footer {
+    padding: 14px 20px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+  }
+  .panel-body__addition {
+    margin: 22px 0;
+  }
+  .accordion-column__heading {
+    font-size: 18px;
+    padding: 0 20px;
+  }
+  .accordion-column .panel-header {
+    width: 100%;
+  }
+  .accordion-column .panel.active .panel-header {
+    background: #fff;
+  }
+  .accordion-column .panel.active .panel-header:before {
+    opacity: 0;
+  }
+  .accordion-column .accordion .panel:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 567px) {
+  .panel-body__item_image {
+    height: 180px;
+  }
 }

@@ -1,0 +1,717 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192.6" height="160.175" viewBox="0 0 192.6 160.175">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.255" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6baaf4"/>
+      <stop offset="1" stop-color="#4a90e2"/>
+    </linearGradient>
+    <filter id="Rectangle" x="11.692" y="0" width="145.899" height="87.899" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#2e5e95"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval" x="78.864" y="72.416" width="11.556" height="11.587" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0.45" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.149"/>
+      <stop offset="1" stop-opacity="0.149"/>
+    </linearGradient>
+    <filter id="Combined_Shape" x="41.433" y="8.371" width="87.008" height="56.674" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#2e5e95"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape-2" data-name="Combined Shape" d="M2.583,6.628l-.369-.92H6.458l-.369.92ZM.6,5.708a.6.6,0,0,1-.6-.6V.6A.6.6,0,0,1,.6,0H1.844l.435.921H6.395L6.827,0H26.342a.6.6,0,0,1,.6.6V5.108a.6.6,0,0,1-.6.6Z" fill="#f5a623"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="0.255" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff001f"/>
+      <stop offset="1" stop-color="#4a90e2"/>
+    </linearGradient>
+    <filter id="Combined_Shape-4" x="9.709" y="37.625" width="6.546" height="9.775" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#2e5e95"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Combined_Shape-5" x="11.018" y="46.625" width="1.091" height="4.375" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Combined_Shape_Copy_2" x="14.073" y="46.625" width="1.091" height="5.275" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-8" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Rectangle-2" x="11.236" y="44.825" width="3.709" height="0.225" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-7"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-9" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e5e95" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#2e5e95" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Combined_Shape-6" x="5.4" y="69.2" width="15.525" height="7.525" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-color="#2e5e95"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Combined_Shape-7" x="6.525" y="68.694" width="5.85" height="5.906" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-11" x1="0.5" y1="0.45" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.149"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.149"/>
+    </linearGradient>
+    <filter id="Oval-2" x="6.525" y="67.175" width="5.85" height="5.906" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-10"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-3" x="7.361" y="68.019" width="4.179" height="4.219" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-13" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4a90e2"/>
+      <stop offset="1" stop-color="#2e5e95"/>
+    </linearGradient>
+    <filter id="Oval-4" x="8.029" y="68.694" width="2.841" height="2.869" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-12"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-14" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e5e95"/>
+      <stop offset="1" stop-color="#4a90e2"/>
+    </linearGradient>
+    <filter id="Oval-5" x="8.531" y="69.2" width="1.839" height="1.856" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-13"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Combined_Shape-8" x="13.725" y="68.694" width="5.85" height="5.906" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-14"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-6" x="13.725" y="67.175" width="5.85" height="5.906" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-15"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-7" x="14.561" y="68.019" width="4.179" height="4.219" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-16"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-8" x="15.229" y="68.694" width="2.841" height="2.869" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-17"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-9" x="15.731" y="69.2" width="1.839" height="1.856" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-18"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="9" y="10.175" width="9" height="10" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-19"/>
+      <feFlood flood-color="#2e5e95"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy_6" x="9.9" y="11.525" width="7.2" height="6.525" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-20"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy_6-2" x="10.575" y="13.775" width="5.85" height="3.375" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-21"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-20" y1="1" x2="0.471" y2="0.222" xlink:href="#linear-gradient-3"/>
+    <filter id="Rectangle-4" x="10.575" y="10.175" width="5.85" height="4.95" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-22"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-21" y1="0" xlink:href="#linear-gradient-11"/>
+    <filter id="Combined_Shape-9" x="10.8" y="8.6" width="5.4" height="6.3" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-23"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-22" x1="0.225" y1="0.725" x2="0.775" y2="0.725" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-23" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-13"/>
+    <filter id="Combined_Shape-10" x="63.6" y="132.027" width="21" height="11.697" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-24"/>
+      <feFlood flood-color="#2e5e95"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-26" x1="0.5" y1="0.928" x2="0.5" y2="0.222" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cdcccc"/>
+      <stop offset="1" stop-color="#eee"/>
+    </linearGradient>
+    <filter id="Rectangle-5" x="71.912" y="121.775" width="4.375" height="12.926" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-25"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-10" x="70.6" y="133.81" width="7" height="8.131" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-26"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Combined_Shape-11" x="98.4" y="99.575" width="57.157" height="28.6" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-27"/>
+      <feFlood flood-color="#2e5e95"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-28" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eee"/>
+      <stop offset="1" stop-color="#cdcccc"/>
+    </linearGradient>
+    <filter id="Rectangle-6" x="140.935" y="118.895" width="6.076" height="6.609" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-28"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy_6-3" x="141.695" y="119.697" width="4.557" height="4.006" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-29"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy_6-4" x="142.075" y="119.697" width="3.798" height="3.606" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-30"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-7" x="142.075" y="118.895" width="3.798" height="3.205" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-31"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Combined_Shape-12" x="142.454" y="117.694" width="3.038" height="4.007" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-32"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-32"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-32" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4a4a4a"/>
+      <stop offset="1" stop-color="#9b9b9b"/>
+    </linearGradient>
+    <filter id="Oval-11" x="106.375" y="116.046" width="8.418" height="9.458" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-33"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur-33"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-34" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cdcccc"/>
+      <stop offset="1" stop-color="#fff7f7"/>
+    </linearGradient>
+    <filter id="Combined_Shape-13" x="106.375" y="116.046" width="8.419" height="9.458" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-34"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur-34"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Triangle" x="109.999" y="116.937" width="1.172" height="1.721" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-35"/>
+      <feFlood flood-color="#fff" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-35"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Triangle_Copy" x="109.999" y="122.296" width="1.172" height="1.721" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-36"/>
+      <feFlood flood-color="#fff" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-36"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Triangle_Copy-2" x="112.952" y="119.753" width="1.079" height="1.044" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-37"/>
+      <feFlood flood-color="#fff" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-37"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Triangle_Copy_2" x="106.539" y="119.753" width="1.079" height="1.044" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-38"/>
+      <feFlood flood-color="#fff" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-38"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-12" x="109.983" y="119.671" width="1.203" height="2.208" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-39"/>
+      <feFlood flood-color="#fff" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-39"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-35" x1="0.5" y1="0.255" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#b1b3b4"/>
+    </linearGradient>
+    <filter id="Rectangle-8" x="116.566" y="108.034" width="22.597" height="10.348" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-40"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur-40"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-36" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#929292"/>
+      <stop offset="1" stop-color="#d8d8d8"/>
+    </linearGradient>
+    <filter id="Rectangle-9" x="118.548" y="109.202" width="18.633" height="8.011" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-41"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur-41"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Illustration_4" data-name="Illustration 4" transform="translate(1.8 -0.625)">
+    <g id="Illustration_3" data-name="Illustration 3">
+      <g id="Illustration_2" data-name="Illustration 2">
+        <g id="Illustration">
+          <circle id="Oval_Copy_28" data-name="Oval Copy 28" cx="34.5" cy="34.5" r="34.5" transform="translate(106.2 70.2)" fill="#f5a623"/>
+          <g id="Group_14" data-name="Group 14" transform="translate(9.6 0.6)">
+            <g id="Group_9" data-name="Group 9">
+              <g id="Group_10" data-name="Group 10">
+                <ellipse id="Oval-13" data-name="Oval" cx="51.281" cy="2.897" rx="51.281" ry="2.897" transform="translate(21.96 107.765)" fill="rgba(0,0,0,0.1)"/>
+                <g transform="matrix(1, 0, 0, 1, -11.4, 0.02)" filter="url(#Rectangle)">
+                  <rect id="Rectangle-10" data-name="Rectangle" width="145.899" height="86.899" rx="1.05" transform="translate(11.69 0)" fill="url(#linear-gradient)"/>
+                </g>
+                <rect id="Rectangle-11" data-name="Rectangle" width="138.677" height="65.899" rx="1.05" transform="translate(3.904 3.645)" fill="#2e5e95"/>
+                <rect id="Rectangle-12" data-name="Rectangle" width="42.614" height="17.38" transform="translate(52.296 88.213)" fill="#2e5e95"/>
+                <rect id="Rectangle-13" data-name="Rectangle" width="71.505" height="4.345" rx="0.9" transform="translate(37.85 105.592)" fill="url(#linear-gradient)"/>
+                <g id="Oval-14" data-name="Oval">
+                  <g transform="matrix(1, 0, 0, 1, -11.4, 0.02)" filter="url(#Oval)">
+                    <ellipse id="Oval-15" data-name="Oval" cx="5.778" cy="5.793" rx="5.778" ry="5.793" transform="translate(78.86 72.42)" fill="#e0e1e7"/>
+                  </g>
+                  <ellipse id="Oval-16" data-name="Oval" cx="5.778" cy="5.793" rx="5.778" ry="5.793" transform="translate(67.464 72.441)" fill="url(#linear-gradient-3)"/>
+                </g>
+                <ellipse id="Oval_Copy_23" data-name="Oval Copy 23" cx="2.167" cy="2.172" rx="2.167" ry="2.172" transform="translate(134.635 76.061)" fill="#f5a623"/>
+                <ellipse id="Oval_Copy_27" data-name="Oval Copy 27" cx="2.167" cy="2.172" rx="2.167" ry="2.172" transform="translate(128.135 76.061)" fill="#f5a623"/>
+              </g>
+            </g>
+            <g id="Group_17" data-name="Group 17" transform="translate(29.592 7.953)">
+              <g id="Group_4_Copy" data-name="Group 4 Copy">
+                <g transform="matrix(1, 0, 0, 1, -40.99, -7.93)" filter="url(#Combined_Shape)">
+                  <path id="Combined_Shape-14" data-name="Combined Shape" d="M2.386,55.674A2.386,2.386,0,0,1,0,53.294V2.381A2.386,2.386,0,0,1,2.386,0H84.622a2.387,2.387,0,0,1,2.387,2.381V53.294a2.387,2.387,0,0,1-2.387,2.38ZM1.1,53.294a1.285,1.285,0,0,0,1.284,1.282H84.622a1.285,1.285,0,0,0,1.285-1.282V7.142H1.1Z" transform="translate(41.43 8.37)" fill="url(#linear-gradient)"/>
+                </g>
+                <rect id="Rectangle-14" data-name="Rectangle" width="85.242" height="47.721" rx="0.3" transform="translate(1.325 7.512)" fill="#fff"/>
+                <ellipse id="Oval-17" data-name="Oval" cx="1.325" cy="1.326" rx="1.325" ry="1.326" transform="translate(82.15 3.093)" fill="#fff"/>
+                <ellipse id="Oval_Copy" data-name="Oval Copy" cx="1.325" cy="1.326" rx="1.325" ry="1.326" transform="translate(78.617 3.093)" fill="#fff"/>
+                <rect id="Rectangle-15" data-name="Rectangle" width="52.117" height="3.093" rx="1.5" transform="translate(19.875 2.209)" fill="#fff"/>
+              </g>
+              <rect id="Rectangle-16" data-name="Rectangle" width="85.683" height="0.442" transform="translate(0.883 15.465)" fill="#4a90e2"/>
+              <rect id="Rectangle-17" data-name="Rectangle" width="0.442" height="39.767" transform="translate(34.008 15.907)" fill="#4a90e2"/>
+              <g id="Group_6" data-name="Group 6" transform="translate(5.742 20.326)">
+                <rect id="Rectangle-18" data-name="Rectangle" width="7.067" height="8.395" rx="0.6" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_21" data-name="Rectangle Copy 21" width="7.067" height="8.395" rx="0.6" transform="translate(0 9.721)" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_24" data-name="Rectangle Copy 24" width="7.067" height="8.395" rx="0.6" transform="translate(0 19)" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_18" data-name="Rectangle Copy 18" width="7.067" height="8.395" rx="0.6" transform="translate(8.392)" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_22" data-name="Rectangle Copy 22" width="7.067" height="8.395" rx="0.6" transform="translate(8.392 9.721)" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_25" data-name="Rectangle Copy 25" width="7.067" height="8.395" rx="0.6" transform="translate(8.392 19)" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_19" data-name="Rectangle Copy 19" width="7.067" height="8.395" rx="0.6" transform="translate(16.342)" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_23" data-name="Rectangle Copy 23" width="7.067" height="8.395" rx="0.6" transform="translate(16.342 9.721)" fill="#4a90e2"/>
+                <rect id="Rectangle_Copy_26" data-name="Rectangle Copy 26" width="7.067" height="8.395" rx="0.6" transform="translate(16.342 19)" fill="#4a90e2"/>
+              </g>
+              <g id="Group_7" data-name="Group 7" transform="translate(5.742 49.488)">
+                <ellipse id="Oval-18" data-name="Oval" cx="1.767" cy="1.767" rx="1.767" ry="1.767" transform="translate(2.65 0)" fill="#4a90e2"/>
+                <ellipse id="Oval_Copy_2" data-name="Oval Copy 2" cx="0.883" cy="0.884" rx="0.883" ry="0.884" transform="translate(0 0.884)" fill="#4a90e2"/>
+                <ellipse id="Oval_Copy_3" data-name="Oval Copy 3" cx="0.883" cy="0.884" rx="0.883" ry="0.884" transform="translate(7.067 0.884)" fill="#4a90e2"/>
+                <ellipse id="Oval_Copy_16" data-name="Oval Copy 16" cx="0.883" cy="0.884" rx="0.883" ry="0.884" transform="translate(9.717 0.884)" fill="#4a90e2"/>
+              </g>
+              <rect id="Rectangle-19" data-name="Rectangle" width="10.158" height="1.326" rx="0.45" transform="translate(18.55 50.814)" fill="#4a90e2"/>
+              <g id="Group_16" data-name="Group 16" transform="translate(43.725 22.093)">
+                <g id="Blockly_Loop" data-name="Blockly / Loop">
+                  <rect id="Rectangle-20" data-name="Rectangle" width="3.3" height="24.144" rx="1.65" fill="#f5a623"/>
+                  <g id="Group_4" data-name="Group 4">
+                    <path id="Combined_Shape-15" data-name="Combined Shape" d="M7.922,10.8,7.554,9.3h4.237l-.368,1.5ZM.6,9.3A.6.6,0,0,1,0,8.7V.6A.6.6,0,0,1,.6,0H7.185l.433,1.5h4.109L12.16,0H31.641a.6.6,0,0,1,.6.6V8.7a.6.6,0,0,1-.6.6Z" fill="#f5a623"/>
+                  </g>
+                  <g id="Group" transform="translate(0 14.844)">
+                    <g id="Group_4_Copy_2" data-name="Group 4 Copy 2">
+                      <path id="Combined_Shape-16" data-name="Combined Shape" d="M31.641,9.3H.6A.6.6,0,0,1,0,8.7V.6A.6.6,0,0,1,.6,0H7.185l.433,1.5h4.109L12.16,0H31.641a.6.6,0,0,1,.6.6V8.7A.6.6,0,0,1,31.641,9.3Z" fill="#f5a623"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Blockly_Simple" data-name="Blockly / Simple" transform="translate(5.3 6.186)">
+                  <g id="Group-2" data-name="Group">
+                    <path id="Combined_Shape-17" data-name="Combined Shape" d="M2.583,6.628l-.369-.92H6.458l-.369.92ZM.6,5.708a.6.6,0,0,1-.6-.6V.6A.6.6,0,0,1,.6,0H1.844l.435.921H6.395L6.827,0H26.342a.6.6,0,0,1,.6.6V5.108a.6.6,0,0,1-.6.6Z" fill="#f5a623"/>
+                    <g id="Group-3" data-name="Group" clip-path="url(#clip-path)">
+                      <g id="Couleurs_Main" data-name="Couleurs / Main">
+                        <rect id="Rectangle_3" data-name="Rectangle 3" width="26.942" height="6.628" fill="#4a90e2"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g id="Blockly_Simple_Copy" data-name="Blockly / Simple Copy" transform="translate(5.3 11.93)">
+                  <g id="Group-4" data-name="Group">
+                    <path id="Combined_Shape-18" data-name="Combined Shape" d="M2.583,6.628l-.369-.92H6.458l-.369.92ZM.6,5.708a.6.6,0,0,1-.6-.6V.6A.6.6,0,0,1,.6,0H1.844l.435.921H6.395L6.827,0H26.342a.6.6,0,0,1,.6.6V5.108a.6.6,0,0,1-.6.6Z" fill="#f5a623"/>
+                    <g id="Group-5" data-name="Group" clip-path="url(#clip-path)">
+                      <g id="Couleurs_Main-2" data-name="Couleurs / Main">
+                        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="26.942" height="6.628" fill="#9acc68"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect id="Rectangle-21" data-name="Rectangle" width="11.042" height="1.326" rx="0.6" transform="translate(2.65 3.535)" fill="#fff"/>
+                <rect id="Rectangle_Copy_29" data-name="Rectangle Copy 29" width="11.042" height="1.326" rx="0.6" transform="translate(7.95 8.837)" fill="#fff"/>
+                <rect id="Rectangle_Copy_30" data-name="Rectangle Copy 30" width="11.042" height="1.326" rx="0.6" transform="translate(7.95 14.581)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_7_Copy_3" data-name="Group 7 Copy 3" transform="translate(145.75 59.209)">
+              <path id="Combined_Shape-19" data-name="Combined Shape" d="M.6,6.628a.6.6,0,0,1-.6-.6V.6A.6.6,0,0,1,.6,0H7.416a.6.6,0,0,1,.436.187l1.4,1.481a.6.6,0,0,1,.164.412V4.548a.6.6,0,0,1-.164.413l-1.4,1.48a.6.6,0,0,1-.436.187ZM11.859,4.535V4.187H11.51v.348h-.7V4.187h-.348v.348H9.418V2.093h1.047v.349h.348V2.093h.7v.349h.349V2.093h.7V4.535Z" transform="translate(0.251)" fill="#4a4a4a"/>
+              <rect id="Rectangle-22" data-name="Rectangle" width="0.251" height="5.155" transform="translate(0 0.736)" fill="#9b9b9b"/>
+            </g>
+          </g>
+          <g id="Oval_Copy_29" data-name="Oval Copy 29" transform="translate(0 32.4)" fill="#fff" stroke="#f5a623" stroke-miterlimit="10" stroke-width="1.8">
+            <circle cx="11.4" cy="11.4" r="11.4" stroke="none"/>
+            <circle cx="11.4" cy="11.4" r="12.3" fill="none"/>
+          </g>
+          <g id="Group_15" data-name="Group 15" transform="translate(6.6 36)">
+            <g id="Group_11" data-name="Group 11">
+              <g id="LED_Copy_2" data-name="LED Copy 2">
+                <g transform="matrix(1, 0, 0, 1, -8.4, -35.38)" filter="url(#Combined_Shape-4)">
+                  <path id="Combined_Shape-20" data-name="Combined Shape" d="M.75,8.775A.75.75,0,0,1,0,8.025V7.977a.751.751,0,0,1,.75-.751H.755V2.517a2.518,2.518,0,0,1,5.036,0V7.226h0a.751.751,0,0,1,.751.751v.049a.75.75,0,0,1-.751.75Z" transform="translate(9.71 37.63)" fill="url(#linear-gradient-5)"/>
+                </g>
+                <g id="Combined_Shape-21" data-name="Combined Shape">
+                  <g transform="matrix(1, 0, 0, 1, -8.4, -35.38)" filter="url(#Combined_Shape-5)">
+                    <path id="Combined_Shape-22" data-name="Combined Shape" d="M.273,3.375V1.811H0V.647H.273V0H.818V.647h.273V1.811H.818V3.375Z" transform="translate(11.02 46.63)" fill="#e0e1e7"/>
+                  </g>
+                  <path id="Combined_Shape-23" data-name="Combined Shape" d="M.273,3.375V1.811H0V.647H.273V0H.818V.647h.273V1.811H.818V3.375Z" transform="translate(2.618 11.25)" fill="url(#linear-gradient-3)"/>
+                </g>
+                <g id="Combined_Shape_Copy_2-2" data-name="Combined Shape Copy 2">
+                  <g transform="matrix(1, 0, 0, 1, -8.4, -35.38)" filter="url(#Combined_Shape_Copy_2)">
+                    <path id="Combined_Shape_Copy_2-3" data-name="Combined Shape Copy 2" d="M.273,4.275V1.81H0V.646H.273V0H.818V.646h.273V1.81H.818V4.275Z" transform="translate(14.07 46.63)" fill="#e0e1e7"/>
+                  </g>
+                  <path id="Combined_Shape_Copy_2-4" data-name="Combined Shape Copy 2" d="M.273,4.275V1.81H0V.646H.273V0H.818V.646h.273V1.81H.818V4.275Z" transform="translate(5.673 11.25)" fill="url(#linear-gradient-3)"/>
+                </g>
+                <path id="Oval-19" data-name="Oval" d="M1.964,1.772a.246.246,0,1,1-.491,0A1.247,1.247,0,0,0,.245.506.249.249,0,0,1,0,.253.249.249,0,0,1,.245,0,1.746,1.746,0,0,1,1.964,1.772Z" transform="translate(4.364 3.15)" fill="url(#linear-gradient-8)"/>
+                <g id="Rectangle-23" data-name="Rectangle">
+                  <g transform="matrix(1, 0, 0, 1, -8.4, -35.38)" filter="url(#Rectangle-2)">
+                    <rect id="Rectangle-24" data-name="Rectangle" width="3.709" height="0.225" rx="0.075" transform="translate(11.24 44.83)" fill="none"/>
+                  </g>
+                  <rect id="Rectangle-25" data-name="Rectangle" width="3.709" height="0.225" rx="0.075" transform="translate(2.836 9.45)" fill="rgba(46,94,149,0.5)"/>
+                </g>
+                <rect id="Rectangle-26" data-name="Rectangle" width="0.218" height="1.35" rx="0.075" transform="translate(4.582)" fill="#ff001f"/>
+                <path id="Rectangle_Copy_2" data-name="Rectangle Copy 2" d="M.29,0h0L.31,1.33h0Z" transform="translate(7.562 1.225) rotate(45)" fill="#ff001f"/>
+                <path id="Rectangle_Copy_3" data-name="Rectangle Copy 3" d="M-.29,0h0L-.31,1.33h0Z" transform="translate(1.591 1.225) rotate(-45)" fill="#ff001f"/>
+                <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M.3,0h0V1.309h0Z" transform="translate(9.164 4.312) rotate(90)" fill="#ff001f"/>
+                <path id="Rectangle_Copy_4" data-name="Rectangle Copy 4" d="M-.3,0h0V1.309h0Z" transform="translate(0 4.312) rotate(-90)" fill="#ff001f"/>
+              </g>
+              <path id="Path_10" data-name="Path 10" d="M.3,2.612a.3.3,0,0,1-.3-.3V1.884a.58.58,0,0,1,.164-.4h0a.58.58,0,0,0,.164-.4V.215A.215.215,0,0,1,.543,0H.617A.142.142,0,0,1,.758.142h0A.142.142,0,0,0,.9.283h1.8A.142.142,0,0,0,2.836.142h0A.142.142,0,0,1,2.978,0h.131a.273.273,0,0,1,.273.273v.8a.591.591,0,0,0,.164.408h0a.591.591,0,0,1,.164.408v.426a.3.3,0,0,1-.3.3H3.4a.293.293,0,0,1-.293-.293h0a.724.724,0,0,0-.2-.5l-.1-.1a.66.66,0,0,1-.137-.709l.1-.253A.11.11,0,0,0,2.673.6h0a.593.593,0,0,0-.3.084l-.881.526a2.55,2.55,0,0,0-.58.474L.8,1.808a.759.759,0,0,0-.2.51h0a.293.293,0,0,1-.293.293Z" transform="translate(2.836 6.637)" fill="url(#linear-gradient-9)"/>
+            </g>
+          </g>
+          <g id="Group_18_Copy" data-name="Group 18 Copy" transform="translate(0 61.8)">
+            <g id="Oval_Copy_29-2" data-name="Oval Copy 29" transform="translate(0 0)" fill="#fff" stroke="#f5a623" stroke-miterlimit="10" stroke-width="1.8">
+              <circle cx="11.181" cy="11.181" r="11.181" stroke="none"/>
+              <circle cx="11.181" cy="11.181" r="12.081" fill="none"/>
+            </g>
+          </g>
+          <g id="ULTRASON_Copy_3" data-name="ULTRASON Copy 3" transform="translate(3.6 67.8)">
+            <g id="ULTRASON_Copy_2" data-name="ULTRASON Copy 2">
+              <g transform="matrix(1, 0, 0, 1, -5.4, -67.18)" filter="url(#Combined_Shape-6)">
+                <path id="Combined_Shape-24" data-name="Combined Shape" d="M.75,0H14.775a.75.75,0,0,1,.75.75V5.775a.75.75,0,0,1-.75.75H.75A.75.75,0,0,1,0,5.775V.75A.75.75,0,0,1,.75,0Z" transform="translate(5.4 69.2)" fill="url(#linear-gradient)"/>
+              </g>
+              <circle id="Oval-20" data-name="Oval" cx="3.262" cy="3.262" r="3.262" transform="translate(0.675 1.8)" fill="#2e5e95"/>
+              <circle id="Oval_Copy_18" data-name="Oval Copy 18" cx="3.262" cy="3.262" r="3.262" transform="translate(8.1 1.8)" fill="#2e5e95"/>
+              <g id="Group_9-2" data-name="Group 9" transform="translate(1.125)">
+                <g id="Combined_Shape-25" data-name="Combined Shape">
+                  <g transform="matrix(1, 0, 0, 1, -6.52, -67.18)" filter="url(#Combined_Shape-7)">
+                    <path id="Combined_Shape-26" data-name="Combined Shape" d="M0,3.038H0V1.181H.585a2.909,2.909,0,0,1,4.68,0H5.85V3.038h0A2.924,2.924,0,0,1,0,3.038Z" transform="translate(6.52 68.69)" fill="#e0e1e7"/>
+                  </g>
+                  <path id="Combined_Shape-27" data-name="Combined Shape" d="M0,3.038H0V1.181H.585a2.909,2.909,0,0,1,4.68,0H5.85V3.038h0A2.924,2.924,0,0,1,0,3.038Z" transform="translate(0 1.519)" fill="url(#linear-gradient-11)"/>
+                </g>
+                <g id="Oval-21" data-name="Oval">
+                  <g transform="matrix(1, 0, 0, 1, -6.52, -67.18)" filter="url(#Oval-2)">
+                    <ellipse id="Oval-22" data-name="Oval" cx="2.925" cy="2.953" rx="2.925" ry="2.953" transform="translate(6.52 67.18)" fill="#e0e1e7"/>
+                  </g>
+                  <ellipse id="Oval-23" data-name="Oval" cx="2.925" cy="2.953" rx="2.925" ry="2.953" transform="translate(0 0)" fill="url(#linear-gradient-11)"/>
+                </g>
+                <g id="Oval-24" data-name="Oval">
+                  <g transform="matrix(1, 0, 0, 1, -6.52, -67.18)" filter="url(#Oval-3)">
+                    <ellipse id="Oval-25" data-name="Oval" cx="2.089" cy="2.109" rx="2.089" ry="2.109" transform="translate(7.36 68.02)" fill="#2e5e95"/>
+                  </g>
+                  <ellipse id="Oval-26" data-name="Oval" cx="2.089" cy="2.109" rx="2.089" ry="2.109" transform="translate(0.836 0.844)" fill="none"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -6.52, -67.18)" filter="url(#Oval-4)">
+                  <ellipse id="Oval-27" data-name="Oval" cx="1.421" cy="1.434" rx="1.421" ry="1.434" transform="translate(8.03 68.69)" fill="url(#linear-gradient-13)"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -6.52, -67.18)" filter="url(#Oval-5)">
+                  <ellipse id="Oval-28" data-name="Oval" cx="0.919" cy="0.928" rx="0.919" ry="0.928" transform="translate(8.53 69.2)" fill="url(#linear-gradient-14)"/>
+                </g>
+              </g>
+              <g id="Group_9_Copy" data-name="Group 9 Copy" transform="translate(8.325)">
+                <g id="Combined_Shape-28" data-name="Combined Shape">
+                  <g transform="matrix(1, 0, 0, 1, -13.72, -67.18)" filter="url(#Combined_Shape-8)">
+                    <path id="Combined_Shape-29" data-name="Combined Shape" d="M0,3.038H0V1.181H.585a2.909,2.909,0,0,1,4.68,0H5.85V3.038h0A2.924,2.924,0,0,1,0,3.038Z" transform="translate(13.72 68.69)" fill="#e0e1e7"/>
+                  </g>
+                  <path id="Combined_Shape-30" data-name="Combined Shape" d="M0,3.038H0V1.181H.585a2.909,2.909,0,0,1,4.68,0H5.85V3.038h0A2.924,2.924,0,0,1,0,3.038Z" transform="translate(0 1.519)" fill="url(#linear-gradient-11)"/>
+                </g>
+                <g id="Oval-29" data-name="Oval">
+                  <g transform="matrix(1, 0, 0, 1, -13.72, -67.18)" filter="url(#Oval-6)">
+                    <ellipse id="Oval-30" data-name="Oval" cx="2.925" cy="2.953" rx="2.925" ry="2.953" transform="translate(13.72 67.18)" fill="#e0e1e7"/>
+                  </g>
+                  <ellipse id="Oval-31" data-name="Oval" cx="2.925" cy="2.953" rx="2.925" ry="2.953" transform="translate(0 0)" fill="url(#linear-gradient-11)"/>
+                </g>
+                <g id="Oval-32" data-name="Oval">
+                  <g transform="matrix(1, 0, 0, 1, -13.72, -67.18)" filter="url(#Oval-7)">
+                    <ellipse id="Oval-33" data-name="Oval" cx="2.089" cy="2.109" rx="2.089" ry="2.109" transform="translate(14.56 68.02)" fill="#2e5e95"/>
+                  </g>
+                  <ellipse id="Oval-34" data-name="Oval" cx="2.089" cy="2.109" rx="2.089" ry="2.109" transform="translate(0.836 0.844)" fill="none"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -13.72, -67.18)" filter="url(#Oval-8)">
+                  <ellipse id="Oval-35" data-name="Oval" cx="1.421" cy="1.434" rx="1.421" ry="1.434" transform="translate(15.23 68.69)" fill="url(#linear-gradient-13)"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -13.72, -67.18)" filter="url(#Oval-9)">
+                  <ellipse id="Oval-36" data-name="Oval" cx="0.919" cy="0.928" rx="0.919" ry="0.928" transform="translate(15.73 69.2)" fill="url(#linear-gradient-14)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <circle id="Oval_Copy_30" data-name="Oval Copy 30" cx="11.4" cy="11.4" r="11.4" transform="translate(0 3.6)" fill="#fff" stroke="#f5a623" stroke-miterlimit="10" stroke-width="1.8"/>
+          <g id="BOUTON_Copy_3" data-name="BOUTON Copy 3" transform="translate(7.2 7.2)">
+            <g id="BOUTON_Copy_2" data-name="BOUTON Copy 2">
+              <g id="BOUTON_Copy" data-name="BOUTON Copy">
+                <g transform="matrix(1, 0, 0, 1, -9, -6.58)" filter="url(#Rectangle-3)">
+                  <rect id="Rectangle-27" data-name="Rectangle" width="9" height="9" rx="0.3" transform="translate(9 10.18)" fill="url(#linear-gradient)"/>
+                </g>
+                <g id="Rectangle_Copy_6-5" data-name="Rectangle Copy 6">
+                  <g transform="matrix(1, 0, 0, 1, -9, -6.58)" filter="url(#Rectangle_Copy_6)">
+                    <rect id="Rectangle_Copy_6-6" data-name="Rectangle Copy 6" width="7.2" height="6.525" rx="0.3" transform="translate(9.9 11.53)" fill="#2e5e95"/>
+                  </g>
+                  <rect id="Rectangle_Copy_6-7" data-name="Rectangle Copy 6" width="7.2" height="6.525" rx="0.3" transform="translate(0.9 4.95)" fill="none"/>
+                </g>
+                <g id="Rectangle_Copy_6-8" data-name="Rectangle Copy 6">
+                  <g transform="matrix(1, 0, 0, 1, -9, -6.58)" filter="url(#Rectangle_Copy_6-2)">
+                    <rect id="Rectangle_Copy_6-9" data-name="Rectangle Copy 6" width="5.85" height="3.375" rx="0.3" transform="translate(10.57 13.78)" fill="#e0e1e7"/>
+                  </g>
+                  <rect id="Rectangle_Copy_6-10" data-name="Rectangle Copy 6" width="5.85" height="3.375" rx="0.3" transform="translate(1.575 7.2)" fill="url(#linear-gradient-20)"/>
+                </g>
+                <g id="Rectangle-28" data-name="Rectangle">
+                  <g transform="matrix(1, 0, 0, 1, -9, -6.58)" filter="url(#Rectangle-4)">
+                    <rect id="Rectangle-29" data-name="Rectangle" width="5.85" height="4.95" rx="0.3" transform="translate(10.57 10.18)" fill="#e0e1e7"/>
+                  </g>
+                  <rect id="Rectangle-30" data-name="Rectangle" width="5.85" height="4.95" rx="0.3" transform="translate(1.575 3.6)" fill="url(#linear-gradient-21)"/>
+                </g>
+                <path id="Path_11" data-name="Path 11" d="M.112.112" transform="translate(10.332 9.699)" fill="none" stroke="#979797" stroke-miterlimit="10" stroke-width="0.5"/>
+                <g id="Combined_Shape-31" data-name="Combined Shape">
+                  <g transform="matrix(1, 0, 0, 1, -9, -6.58)" filter="url(#Combined_Shape-9)">
+                    <path id="Combined_Shape-32" data-name="Combined Shape" d="M0,3.6a2.72,2.72,0,0,1,.037-.45A2.7,2.7,0,1,1,5.4,2.7a2.72,2.72,0,0,1-.037.45A2.7,2.7,0,1,1,0,3.6Z" transform="translate(10.8 8.6)" fill="#e0e1e7"/>
+                  </g>
+                  <path id="Combined_Shape-33" data-name="Combined Shape" d="M0,3.6a2.72,2.72,0,0,1,.037-.45A2.7,2.7,0,1,1,5.4,2.7a2.72,2.72,0,0,1-.037.45A2.7,2.7,0,1,1,0,3.6Z" transform="translate(1.8 2.025)" fill="url(#linear-gradient-22)"/>
+                </g>
+                <circle id="Oval_Copy_14" data-name="Oval Copy 14" cx="2.7" cy="2.7" r="2.7" transform="translate(1.8 2.025)" fill="#d8d8d8"/>
+                <path id="Combined_Shape-34" data-name="Combined Shape" d="M0,2.475V0H4.05V2.475a2.025,2.025,0,0,1-4.05,0Z" transform="translate(2.475 2.25)" fill="#2e5e95"/>
+                <circle id="Oval_Copy_15" data-name="Oval Copy 15" cx="2.025" cy="2.025" r="2.025" transform="translate(2.475 0)" fill="url(#linear-gradient-23)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_7_Copy_2" data-name="Group 7 Copy 2" transform="translate(145.2 128.4) rotate(90)">
+            <path id="Combined_Shape-35" data-name="Combined Shape" d="M.6,6.75a.6.6,0,0,1-.6-.6V.6A.6.6,0,0,1,.6,0H7.383a.6.6,0,0,1,.44.193l1.4,1.51a.6.6,0,0,1,.16.408V4.64a.6.6,0,0,1-.16.408l-1.4,1.51a.6.6,0,0,1-.44.193ZM11.815,4.618V4.262h-.347v.355h-.7V4.262h-.347v.355H9.383V2.131h1.042v.355h.347V2.131h.7v.355h.347V2.131h.695V4.618Z" transform="translate(0.25)" fill="#4a4a4a"/>
+            <rect id="Rectangle-31" data-name="Rectangle" width="0.25" height="5.25" transform="translate(0 0.75)" fill="#9b9b9b"/>
+          </g>
+          <path id="Path_8" data-name="Path 8" d="M0,.056S8.308-.389,14.868,2.724,25.8,17.4,25.8,17.4" transform="translate(22.8 15.6)" fill="none" stroke="#f5a623" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.9"/>
+          <path id="Path_9" data-name="Path 9" d="M0,10.771s16.032.255,23.343-1.723S41.4,0,41.4,0" transform="translate(23.4 33)" fill="none" stroke="#f5a623" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.9"/>
+          <path id="Path_16" data-name="Path 16" d="M0,21s12.379-1.312,20.779-7A43.88,43.88,0,0,0,33.6,0" transform="translate(23.4 52.2)" fill="none" stroke="#f5a623" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.9"/>
+          <circle id="Oval-37" data-name="Oval" cx="2.1" cy="2.1" r="2.1" transform="translate(46.8 31.2)" fill="#f5a623"/>
+          <circle id="Oval_Copy_31" data-name="Oval Copy 31" cx="2.1" cy="2.1" r="2.1" transform="translate(63 31.2)" fill="#f5a623"/>
+          <circle id="Oval_Copy_32" data-name="Oval Copy 32" cx="2.1" cy="2.1" r="2.1" transform="translate(55.2 49.8)" fill="#f5a623"/>
+          <path id="Path_17" data-name="Path 17" d="M0,78.328S0,97.8,22.018,97.8,48,87.622,48,73.461,23.339,64.167,23.339,48.236,48,39.828,48,21.684,26.422,0,26.422,0" transform="translate(142.2 62.4)" fill="none" stroke="#4a4a4a" stroke-miterlimit="10" stroke-width="1.2"/>
+          <path id="Path_18" data-name="Path 18" d="M0,16.839s5.345,4.448,10.56,2.216,4.4-9.306,8.36-11.078S26.8,12.1,33,9.306,38.281,0,38.281,0" transform="translate(80.4 127.8)" fill="none" stroke="#ff001f" stroke-miterlimit="10" stroke-width="0.6"/>
+          <g id="Servo_Copy_2" data-name="Servo Copy 2" transform="translate(61.8 122.4)">
+            <rect id="Rectangle-32" data-name="Rectangle" width="16.625" height="5.349" rx="0.6" transform="translate(2.187 20.949)" fill="url(#linear-gradient-14)"/>
+            <g transform="matrix(1, 0, 0, 1, -63.6, -121.78)" filter="url(#Combined_Shape-10)">
+              <path id="Combined_Shape-36" data-name="Combined Shape" d="M20.4,10.7H.6a.6.6,0,0,1-.6-.6V6.346a1.3,1.3,0,0,0,.875.34,1.338,1.338,0,0,0,0-2.675A1.3,1.3,0,0,0,0,4.351V.6A.6.6,0,0,1,.6,0H20.4a.6.6,0,0,1,.6.6V4.352a1.3,1.3,0,0,0-.875-.341,1.338,1.338,0,0,0,0,2.675A1.3,1.3,0,0,0,21,6.345V10.1A.6.6,0,0,1,20.4,10.7Z" transform="translate(63.6 132.03)" fill="url(#linear-gradient)"/>
+            </g>
+            <ellipse id="Oval-38" data-name="Oval" cx="5.25" cy="5.349" rx="5.25" ry="5.349" transform="translate(5.25 10.251)" fill="#2e5e95"/>
+            <g transform="matrix(1, 0, 0, 1, -63.6, -121.78)" filter="url(#Rectangle-5)">
+              <path id="Rectangle-33" data-name="Rectangle" d="M1.224.871A.968.968,0,0,1,2.187,0h0a.968.968,0,0,1,.963.871L4.375,12.926A4.626,4.626,0,0,0,2.187,12.2,4.626,4.626,0,0,0,0,12.926Z" transform="translate(71.91 121.78)" fill="url(#linear-gradient-26)"/>
+            </g>
+            <path id="Rectangle_Copy_5" data-name="Rectangle Copy 5" d="M1.224-.871A.968.968,0,0,0,2.187,0h0a.968.968,0,0,0,.963-.871L4.375-12.926a4.626,4.626,0,0,1-2.187.728A4.626,4.626,0,0,1,0-12.926Z" transform="translate(8.312 31.2)" fill="#e0e1e7"/>
+            <g transform="matrix(1, 0, 0, 1, -63.6, -121.78)" filter="url(#Oval-10)">
+              <ellipse id="Oval-39" data-name="Oval" cx="3.5" cy="3.566" rx="3.5" ry="3.566" transform="translate(70.6 133.81)" fill="#f1f2f7"/>
+            </g>
+            <ellipse id="Oval-40" data-name="Oval" cx="0.437" cy="0.446" rx="0.437" ry="0.446" transform="translate(10.062 10.251)" fill="#787878"/>
+            <ellipse id="Oval_Copy_6" data-name="Oval Copy 6" cx="0.437" cy="0.446" rx="0.437" ry="0.446" transform="translate(10.062 23.623)" fill="#787878"/>
+            <ellipse id="Oval_Copy_4" data-name="Oval Copy 4" cx="0.437" cy="0.446" rx="0.437" ry="0.446" transform="translate(10.062 8.469)" fill="#787878"/>
+            <ellipse id="Oval_Copy_7" data-name="Oval Copy 7" cx="0.437" cy="0.446" rx="0.437" ry="0.446" transform="translate(10.062 21.84)" fill="#787878"/>
+            <ellipse id="Oval_Copy_5" data-name="Oval Copy 5" cx="0.437" cy="0.446" rx="0.437" ry="0.446" transform="translate(10.062 6.686)" fill="#787878"/>
+            <ellipse id="Oval_Copy_8" data-name="Oval Copy 8" cx="0.437" cy="0.446" rx="0.437" ry="0.446" transform="translate(10.062 20.057)" fill="#787878"/>
+            <ellipse id="Oval-41" data-name="Oval" cx="1.312" cy="1.337" rx="1.312" ry="1.337" transform="translate(9.187 14.263)" fill="#787878"/>
+          </g>
+          <g id="Group_13" data-name="Group 13" transform="translate(96.6 100.2)">
+            <g transform="matrix(1, 0, 0, 1, -98.4, -99.58)" filter="url(#Combined_Shape-11)">
+              <path id="Combined_Shape-37" data-name="Combined Shape" d="M55.657,27.6H1.5A1.5,1.5,0,0,1,0,26.1V1.5A1.5,1.5,0,0,1,1.5,0H55.657a1.5,1.5,0,0,1,1.5,1.5V26.1A1.5,1.5,0,0,1,55.657,27.6ZM54.4,23.263a1.577,1.577,0,1,0,1.577,1.577A1.579,1.579,0,0,0,54.4,23.263Zm-51.244,0A1.577,1.577,0,1,0,4.73,24.84,1.579,1.579,0,0,0,3.154,23.263ZM54.4,1.577a1.577,1.577,0,1,0,1.577,1.578A1.579,1.579,0,0,0,54.4,1.577Zm-51.244,0A1.577,1.577,0,1,0,4.73,3.155,1.579,1.579,0,0,0,3.154,1.577Z" transform="translate(98.4 99.58)" fill="url(#linear-gradient)"/>
+            </g>
+            <g id="BOUTON_Copy-2" data-name="BOUTON Copy" transform="translate(42.535 16.916)">
+              <g transform="matrix(1, 0, 0, 1, -140.94, -116.49)" filter="url(#Rectangle-6)">
+                <rect id="Rectangle-34" data-name="Rectangle" width="6.076" height="5.609" rx="0.6" transform="translate(140.94 118.9)" fill="url(#linear-gradient-28)"/>
+              </g>
+              <g id="Rectangle_Copy_6-11" data-name="Rectangle Copy 6">
+                <g transform="matrix(1, 0, 0, 1, -140.94, -116.49)" filter="url(#Rectangle_Copy_6-3)">
+                  <rect id="Rectangle_Copy_6-12" data-name="Rectangle Copy 6" width="4.557" height="4.006" rx="0.6" transform="translate(141.69 119.7)" fill="#4a4a4a"/>
+                </g>
+                <rect id="Rectangle_Copy_6-13" data-name="Rectangle Copy 6" width="4.557" height="4.006" rx="0.6" transform="translate(0.76 3.205)" fill="none"/>
+              </g>
+              <g id="Rectangle_Copy_6-14" data-name="Rectangle Copy 6">
+                <g transform="matrix(1, 0, 0, 1, -140.94, -116.49)" filter="url(#Rectangle_Copy_6-4)">
+                  <rect id="Rectangle_Copy_6-15" data-name="Rectangle Copy 6" width="3.798" height="3.606" rx="0.6" transform="translate(142.07 119.7)" fill="#e0e1e7"/>
+                </g>
+                <rect id="Rectangle_Copy_6-16" data-name="Rectangle Copy 6" width="3.798" height="3.606" rx="0.6" transform="translate(1.139 3.205)" fill="url(#linear-gradient-20)"/>
+              </g>
+              <g id="Rectangle-35" data-name="Rectangle">
+                <g transform="matrix(1, 0, 0, 1, -140.94, -116.49)" filter="url(#Rectangle-7)">
+                  <rect id="Rectangle-36" data-name="Rectangle" width="3.798" height="3.205" rx="0.6" transform="translate(142.07 118.9)" fill="#e0e1e7"/>
+                </g>
+                <rect id="Rectangle-37" data-name="Rectangle" width="3.798" height="3.205" rx="0.6" transform="translate(1.139 2.404)" fill="url(#linear-gradient-21)"/>
+              </g>
+              <path id="Path_11-2" data-name="Path 11" d="M.065.072" transform="translate(6.392 6.339)" fill="none" stroke="#979797" stroke-miterlimit="10" stroke-width="0.5"/>
+              <g id="Combined_Shape-38" data-name="Combined Shape">
+                <g transform="matrix(1, 0, 0, 1, -140.94, -116.49)" filter="url(#Combined_Shape-12)">
+                  <path id="Combined_Shape-39" data-name="Combined Shape" d="M0,2.29A1.95,1.95,0,0,1,.021,2,1.95,1.95,0,0,1,0,1.717,1.627,1.627,0,0,1,1.519,0,1.627,1.627,0,0,1,3.038,1.717,1.95,1.95,0,0,1,3.017,2a1.95,1.95,0,0,1,.021.286A1.628,1.628,0,0,1,1.519,4.007,1.628,1.628,0,0,1,0,2.29Z" transform="translate(142.45 117.69)" fill="#e0e1e7"/>
+                </g>
+                <path id="Combined_Shape-40" data-name="Combined Shape" d="M0,2.29A1.95,1.95,0,0,1,.021,2,1.95,1.95,0,0,1,0,1.717,1.627,1.627,0,0,1,1.519,0,1.627,1.627,0,0,1,3.038,1.717,1.95,1.95,0,0,1,3.017,2a1.95,1.95,0,0,1,.021.286A1.628,1.628,0,0,1,1.519,4.007,1.628,1.628,0,0,1,0,2.29Z" transform="translate(1.519 1.202)" fill="url(#linear-gradient-22)"/>
+              </g>
+              <ellipse id="Oval_Copy_14-2" data-name="Oval Copy 14" cx="1.519" cy="1.803" rx="1.519" ry="1.803" transform="translate(1.519 1.202)" fill="#d8d8d8"/>
+              <path id="Combined_Shape-41" data-name="Combined Shape" d="M0,1.543V0H2.279V1.543A1.206,1.206,0,0,1,1.139,2.8,1.206,1.206,0,0,1,0,1.543Z" transform="translate(1.899 1.603)" fill="#4a4a4a"/>
+              <ellipse id="Oval_Copy_15-2" data-name="Oval Copy 15" cx="1.139" cy="1.202" rx="1.139" ry="1.202" transform="translate(1.899 0)" fill="url(#linear-gradient-32)"/>
+            </g>
+            <g id="Group-6" data-name="Group" transform="translate(7.975 16.471)">
+              <g transform="matrix(1, 0, 0, 1, -106.38, -116.05)" filter="url(#Oval-11)">
+                <ellipse id="Oval-42" data-name="Oval" cx="4.209" cy="4.229" rx="4.209" ry="4.229" transform="translate(106.38 116.05)" fill="url(#linear-gradient-28)"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -106.38, -116.05)" filter="url(#Combined_Shape-13)">
+                <path id="Combined_Shape-42" data-name="Combined Shape" d="M3.106,8.458a.3.3,0,0,1-.3-.3V5.639H.3a.3.3,0,0,1-.3-.3V3.119a.3.3,0,0,1,.3-.3H2.806V.3a.3.3,0,0,1,.3-.3H5.313a.3.3,0,0,1,.3.3V2.82H8.119a.3.3,0,0,1,.3.3V5.339a.3.3,0,0,1-.3.3H5.612v2.52a.3.3,0,0,1-.3.3Z" transform="translate(106.38 116.05)" fill="url(#linear-gradient-34)"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -106.38, -116.05)" filter="url(#Triangle)">
+                <path id="Triangle-2" data-name="Triangle" d="M.814.151a.3.3,0,0,1,.376,0L1.5.4a.226.226,0,0,1-.142.4H.643A.226.226,0,0,1,.5.4Z" transform="translate(109.58 116.85)" fill="#9b9b9b"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -106.38, -116.05)" filter="url(#Triangle_Copy)">
+                <path id="Triangle_Copy-3" data-name="Triangle Copy" d="M.814-.151a.3.3,0,0,0,.376,0L1.5-.4a.226.226,0,0,0-.142-.4H.643A.226.226,0,0,0,.5-.4Z" transform="translate(109.58 124.1)" fill="#9b9b9b"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -106.38, -116.05)" filter="url(#Triangle_Copy-2)">
+                <path id="Triangle_Copy-4" data-name="Triangle Copy" d="M.983-.262a.3.3,0,0,0,.048,0L1.51-.3a.02.02,0,0,0,0-.04h-1A.02.02,0,0,0,.5-.3Z" transform="translate(114.29 121.28) rotate(-90)" fill="#9b9b9b"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -106.38, -116.05)" filter="url(#Triangle_Copy_2)">
+                <path id="Triangle_Copy_2-2" data-name="Triangle Copy 2" d="M.983.262a.3.3,0,0,1,.048,0L1.51.3a.02.02,0,0,1,0,.04h-1A.02.02,0,0,1,.5.3Z" transform="translate(107.28 121.28) rotate(-90)" fill="#9b9b9b"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -106.38, -116.05)" filter="url(#Oval-12)">
+                <ellipse id="Oval-43" data-name="Oval" cx="0.601" cy="0.604" rx="0.601" ry="0.604" transform="translate(109.98 119.67)" fill="#9b9b9b"/>
+              </g>
+            </g>
+            <rect id="Rectangle_Copy_16" data-name="Rectangle Copy 16" width="2.215" height="2.226" rx="0.6" transform="translate(38.548 1.781)" fill="#2e5e95"/>
+            <rect id="Rectangle_Copy_17" data-name="Rectangle Copy 17" width="3.545" height="2.226" rx="0.6" transform="translate(8.862 1.781)" fill="#2e5e95"/>
+            <ellipse id="Oval_Copy_25" data-name="Oval Copy 25" cx="2.88" cy="2.894" rx="2.88" ry="2.894" transform="translate(50.511 13.355)" fill="#2e5e95"/>
+            <ellipse id="Oval_Copy_24" data-name="Oval Copy 24" cx="2.88" cy="2.894" rx="2.88" ry="2.894" transform="translate(1.329 7.123)" fill="#2e5e95"/>
+            <ellipse id="Oval_Copy_26" data-name="Oval Copy 26" cx="2.88" cy="2.894" rx="2.88" ry="2.894" transform="translate(50.511 7.123)" fill="#2e5e95"/>
+            <rect id="Rectangle-38" data-name="Rectangle" width="3.988" height="2.226" rx="0.6" transform="translate(44.308 1.781)" fill="#2e5e95"/>
+            <g id="Group_13_Copy" data-name="Group 13 Copy" transform="translate(18.166 8.013)">
+              <g transform="matrix(1, 0, 0, 1, -116.57, -107.59)" filter="url(#Rectangle-8)">
+                <rect id="Rectangle-39" data-name="Rectangle" width="22.597" height="9.348" rx="0.6" transform="translate(116.57 108.03)" fill="url(#linear-gradient-35)"/>
+              </g>
+              <ellipse id="Oval-44" data-name="Oval" cx="0.396" cy="0.39" rx="0.396" ry="0.39" transform="translate(21.011 1.224)" fill="#4a4a4a"/>
+              <ellipse id="Oval_Copy_11" data-name="Oval Copy 11" cx="0.396" cy="0.39" rx="0.396" ry="0.39" transform="translate(21.011 8.235)" fill="#4a4a4a"/>
+              <ellipse id="Oval_Copy_10" data-name="Oval Copy 10" cx="0.396" cy="0.39" rx="0.396" ry="0.39" transform="translate(0.793 1.224)" fill="#4a4a4a"/>
+              <ellipse id="Oval_Copy_12" data-name="Oval Copy 12" cx="0.396" cy="0.39" rx="0.396" ry="0.39" transform="translate(0.793 8.235)" fill="#4a4a4a"/>
+              <g transform="matrix(1, 0, 0, 1, -116.57, -107.59)" filter="url(#Rectangle-9)">
+                <rect id="Rectangle-40" data-name="Rectangle" width="18.633" height="7.011" rx="0.6" transform="translate(118.55 109.2)" fill="url(#linear-gradient-36)"/>
+              </g>
+              <rect id="Rectangle-41" data-name="Rectangle" width="17.84" height="5.843" rx="0.6" transform="translate(2.379 2.393)" fill="#fff"/>
+              <text id="_" transform="translate(3.171 2.551)" fill="#787878" font-size="2.1" font-family="CourierNewPS-BoldMT, Courier New" font-weight="700" letter-spacing="0.083em"><tspan x="0" y="2">_</tspan></text>
+            </g>
+            <rect id="Rectangle-42" data-name="Rectangle" width="2.215" height="3.561" rx="0.6" transform="translate(19.052 1.781)" fill="#2e5e95"/>
+            <rect id="Rectangle_Copy_20" data-name="Rectangle Copy 20" width="2.215" height="3.561" rx="0.6" transform="translate(3.102 14.245)" fill="#2e5e95"/>
+            <rect id="Rectangle_Copy_13" data-name="Rectangle Copy 13" width="2.215" height="3.561" rx="0.6" transform="translate(23.926 1.781)" fill="#2e5e95"/>
+            <rect id="Rectangle_Copy_14" data-name="Rectangle Copy 14" width="2.215" height="3.561" rx="0.6" transform="translate(28.357 1.781)" fill="#2e5e95"/>
+            <rect id="Rectangle_Copy_15" data-name="Rectangle Copy 15" width="2.215" height="3.561" rx="0.6" transform="translate(32.345 1.781)" fill="#2e5e95"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

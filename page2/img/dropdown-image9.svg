@@ -1,0 +1,30 @@
+<svg id="Graph" xmlns="http://www.w3.org/2000/svg" width="210.2" height="163" viewBox="0 0 210.2 163">
+  <circle id="Oval_Copy_33" data-name="Oval Copy 33" cx="28.2" cy="28.2" r="28.2" transform="translate(98.4 15.4)" fill="#f5a623"/>
+  <circle id="Oval_Copy_18" data-name="Oval Copy 18" cx="25" cy="25" r="25" transform="translate(85.7 86.9)" fill="#9acc68"/>
+  <circle id="Oval_Copy_34" data-name="Oval Copy 34" cx="23.1" cy="23.1" r="23.1" transform="translate(0 36)" fill="#f5a623"/>
+  <circle id="Oval_Copy_7" data-name="Oval Copy 7" cx="15" cy="15" r="15" transform="translate(90.2 33)" fill="#2e5e95"/>
+  <circle id="Oval_Copy_8" data-name="Oval Copy 8" cx="15" cy="15" r="15" transform="translate(0.2 68)" fill="#2e5e95"/>
+  <circle id="Oval_Copy_9" data-name="Oval Copy 9" cx="15" cy="15" r="15" transform="translate(90.2 98)" fill="#2e5e95"/>
+  <circle id="Oval_Copy_10" data-name="Oval Copy 10" cx="15" cy="15" r="15" transform="translate(180.2 133)" fill="#2e5e95"/>
+  <circle id="Oval_Copy_11" data-name="Oval Copy 11" cx="15" cy="15" r="15" transform="translate(180.2 89)" fill="#2e5e95"/>
+  <circle id="Oval_Copy_12" data-name="Oval Copy 12" cx="15" cy="15" r="15" transform="translate(180.2 46)" fill="#2e5e95"/>
+  <circle id="Oval_Copy_13" data-name="Oval Copy 13" cx="15" cy="15" r="15" transform="translate(180.2 2)" fill="#2e5e95"/>
+  <circle id="Oval" cx="15" cy="15" r="15" transform="translate(0.2 66)" fill="#4a90e2"/>
+  <circle id="Oval_Copy" data-name="Oval Copy" cx="15" cy="15" r="15" transform="translate(90.2 31)" fill="#4a90e2"/>
+  <circle id="Oval_Copy_3" data-name="Oval Copy 3" cx="15" cy="15" r="15" transform="translate(180.2)" fill="#4a90e2"/>
+  <circle id="Oval_Copy_2" data-name="Oval Copy 2" cx="15" cy="15" r="15" transform="translate(90.2 96)" fill="#4a90e2"/>
+  <circle id="Oval_Copy_4" data-name="Oval Copy 4" cx="15" cy="15" r="15" transform="translate(180.2 44)" fill="#4a90e2"/>
+  <circle id="Oval_Copy_5" data-name="Oval Copy 5" cx="15" cy="15" r="15" transform="translate(180.2 87)" fill="#4a90e2"/>
+  <circle id="Oval_Copy_6" data-name="Oval Copy 6" cx="15" cy="15" r="15" transform="translate(180.2 131)" fill="#4a90e2"/>
+  <path id="Path_2" data-name="Path 2" d="M0,66c50,0,49-37,90-35S180,0,180,0" transform="translate(15.2 15)" fill="none" stroke="#4a90e2" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path_6" data-name="Path 6" d="M0,0S33,30,90,30s90,35,90,35" transform="translate(15.2 81)" fill="none" stroke="#4a90e2" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path_14" data-name="Path 14" d="M0,0S28.539,17.157,48,20s41-7,41-7" transform="translate(106.2 46)" fill="none" stroke="#4a90e2" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path_21" data-name="Path 21" d="M0,15.5S19.916,2.107,36,.5c26.3-2.63,54,6,54,6" transform="translate(105.2 95.501)" fill="none" stroke="#4a90e2" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Star" d="M10.465,15.245a1,1,0,0,0-.931,0l-3.619,1.9a1,1,0,0,1-1.451-1.054l.691-4.03a1,1,0,0,0-.288-.885L1.94,8.324a1,1,0,0,1,.554-1.706l4.046-.588a1,1,0,0,0,.753-.547L9.1,1.817a1,1,0,0,1,1.793,0l1.81,3.666a1,1,0,0,0,.753.547l4.046.588a1,1,0,0,1,.554,1.706l-2.928,2.854a1,1,0,0,0-.288.885l.691,4.03a1,1,0,0,1-1.451,1.054Z" transform="translate(5.2 71)" fill="#fff"/>
+  <path id="Star_Copy" data-name="Star Copy" d="M10.465,15.245a1,1,0,0,0-.931,0l-3.619,1.9a1,1,0,0,1-1.451-1.054l.691-4.03a1,1,0,0,0-.288-.885L1.94,8.324a1,1,0,0,1,.554-1.706l4.046-.588a1,1,0,0,0,.753-.547L9.1,1.817a1,1,0,0,1,1.793,0l1.81,3.666a1,1,0,0,0,.753.547l4.046.588a1,1,0,0,1,.554,1.706l-2.928,2.854a1,1,0,0,0-.288.885l.691,4.03a1,1,0,0,1-1.451,1.054Z" transform="translate(185.2 49)" fill="#fff"/>
+  <path id="Triangle" d="M5.606,1.789a1,1,0,0,1,1.789,0l4.882,9.764A1,1,0,0,1,11.382,13H1.618a1,1,0,0,1-.894-1.447Z" transform="translate(98.2 38)" fill="#fff"/>
+  <path id="Triangle_Copy" data-name="Triangle Copy" d="M5.606,1.789a1,1,0,0,1,1.789,0l4.882,9.764A1,1,0,0,1,11.382,13H1.618a1,1,0,0,1-.894-1.447Z" transform="translate(188.2 138)" fill="#fff"/>
+  <path id="Polygon" d="M6.824.854a2,2,0,0,1,2.351,0l5.257,3.82a2,2,0,0,1,.727,2.236l-2.008,6.18a2,2,0,0,1-1.9,1.382h-6.5a2,2,0,0,1-1.9-1.382L.841,6.91a2,2,0,0,1,.727-2.236Z" transform="translate(97.2 103)" fill="#fff"/>
+  <circle id="Oval-2" data-name="Oval" cx="8" cy="8" r="8" transform="translate(187.2 94)" fill="#fff"/>
+  <rect id="Rectangle" width="11" height="11" rx="1" transform="translate(194.993 7.015) rotate(45)" fill="#fff"/>
+</svg>
