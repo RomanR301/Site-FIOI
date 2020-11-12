@@ -460,7 +460,7 @@ a:hover {
   background: #F5A623;
 }
 .icon-loupe {
-  background-image: url('../img/loupe.svg');
+  background-image: url('../../shared/img/loupe.svg');
   background-repeat: no-repeat;
   width: 16px;
   height: 16px;
@@ -727,7 +727,7 @@ footer {
     padding: 10px 35px;
   }
   .icon-arrow {
-    background-image: url('../img/arrow.svg');
+    background-image: url('../../shared/img/arrow.svg');
     background-repeat: no-repeat;
     width: 16px;
     height: 16px;
@@ -821,3 +821,4 @@ footer {
     justify-content: center;
   }
 }
+
